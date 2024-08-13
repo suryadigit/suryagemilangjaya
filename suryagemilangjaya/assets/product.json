@@ -1,0 +1,58 @@
+[
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Meja Belajar Kayu",
+        "price": "Rp 1.250.000",
+        "category": "Furniture",
+        "barcode": "8901234567891",
+        "stock": "51"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Lemari Pakaian 3 Pintu",
+        "price": "Rp 2.750.000",
+        "category": "Furniture",
+        "barcode": "8909876543210",
+        "stock": "56"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Kursi Sofa Minimalis",
+        "price": "Rp 3.500.000",
+        "category": "Furniture",
+        "barcode": "8906543210987",
+        "stock": "764"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Meja Makan 6 Kursi",
+        "price": "Rp 4.200.000",
+        "category": "Furniture",
+        "barcode": "8901122334455",
+        "stock": "23"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Rak Buku Serbaguna",
+        "price": "Rp 850.000",
+        "category": "Furniture",
+        "barcode": "8906677889900",
+        "stock": "23"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Cermin Dinding Dekoratif",
+        "price": "Rp 650.000",
+        "category": "Dekorasi Rumah",
+        "barcode": "8905544332211",
+        "stock": "23"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Lampu Gantung Modern",
+        "price": "Rp 1.450.000",
+        "category": "Dekorasi Rumah",
+        "barcode": "8909988776655",
+        "stock": "23"
+    }
+]
