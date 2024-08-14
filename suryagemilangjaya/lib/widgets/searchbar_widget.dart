@@ -19,6 +19,7 @@ class SearchBars extends StatelessWidget {
           child: TextField(
             decoration: InputDecoration(
               filled: true,
+              fillColor: Colors.grey[200],
               hintText: 'Cari nama barang, barcode, category',
               prefixIcon: PhosphorIcon(PhosphorIcons.magnifyingGlass()),
               suffixIcon: PhosphorIcon(PhosphorIcons.fadersHorizontal()),

@@ -21,7 +21,7 @@
         "price": "Rp 3.500.000",
         "category": "Furniture",
         "barcode": "8906543210987",
-        "stock": "764"
+        "stock": "54"
     },
     {
         "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
@@ -45,6 +45,30 @@
         "price": "Rp 650.000",
         "category": "Dekorasi Rumah",
         "barcode": "8905544332211",
+        "stock": "23"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Lampu Gantung Modern",
+        "price": "Rp 1.450.000",
+        "category": "Dekorasi Rumah",
+        "barcode": "8909988776655",
+        "stock": "23"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Lampu Gantung Modern",
+        "price": "Rp 1.450.000",
+        "category": "Dekorasi Rumah",
+        "barcode": "8909988776655",
+        "stock": "23"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2018/02/14/19/52/online-store-3153783_1280.jpg",
+        "title": "Lampu Gantung Modern",
+        "price": "Rp 1.450.000",
+        "category": "Dekorasi Rumah",
+        "barcode": "8909988776655",
         "stock": "23"
     },
     {
