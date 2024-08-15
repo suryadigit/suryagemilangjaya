@@ -19,7 +19,6 @@ class _ProductPageState extends State<ProductPage> {
 
   @override
   Widget build(BuildContext context) {
-       const Center(child: Divider(color: Colors.blue));
     return Scaffold(
       backgroundColor: Colors.white,
       body: FutureBuilder<List<ProductModel>>(
@@ -32,7 +31,6 @@ class _ProductPageState extends State<ProductPage> {
           } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
             return const Center(child: Text('No products available.'));
           }
-          const Center(child: Divider(color: Colors.blue));
 
           final products = snapshot.data!;
           return ListView.builder(
